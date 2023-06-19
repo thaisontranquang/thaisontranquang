@@ -2,7 +2,7 @@
 
 ## Who am I ?
 
-I'm Thai-Son, a first year student in a digital school [MMI Bordeaux](https://docs.framasoft.org/fr/grav/](https://www.mmibordeaux.com/) ! I'm learning web development, UI and UX design, and many other things. ✨
+I'm Thai-Son, a first year student in a digital school [MMI Bordeaux](https://www.mmibordeaux.com/) ! I'm learning web development, UI and UX design, and many other things. ✨
 
 I now have a solid background in HTML, CSS, and JavaScript, as well as experience with various web development frameworks and libraries such as React and Next.js which I'm still learning. 💻
 
